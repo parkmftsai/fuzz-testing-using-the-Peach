@@ -22,6 +22,11 @@ http://book.51cto.com/art/201107/275204.htm
 ```
 ```
 20180720
-peach 是否只能在windows下執行，待查證.....
+peach 在linux底下似乎只能使用python2.7以下版本執行
+
+
+這裡是peach與sulley比較，感覺peach比較專注在xml開發上，sulley似乎在使用上比較有彈性
+，兩者各有優點，如要使用需要思考一下。
+https://blog.csdn.net/u012397189/article/details/78122418
 
 ```
