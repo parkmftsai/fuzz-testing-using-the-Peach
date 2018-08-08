@@ -85,6 +85,15 @@ https://blog.csdn.net/huanhuanq1209/article/details/72673236
 20180808
 一個簡扼的demo方式
 https://github.com/murksermatt/python-dlms
+
 DLMS/COSEM green book
 http://dlms.com/documents/Green_Book_Ed_8-3_Excerpt.pdf
+
+jDLMS databook
+https://www.openmuc.org/dlms-cosem/files/jdlms-doc.pdf
+
+之後要確認之事情如下
+1.電腦與電錶的連接方式採用tcp/ip 還是serial port？ 
+2.測試時client ＆ server是否我們這邊要建置？
+
 ```
