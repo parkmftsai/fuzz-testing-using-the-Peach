@@ -81,3 +81,8 @@ https://blog.csdn.net/huanhuanq1209/article/details/72673236
     $ make  
     $ sudo make install   
 ```
+```
+20180808
+一個簡扼的demo方式
+https://github.com/murksermatt/python-dlms
+```
