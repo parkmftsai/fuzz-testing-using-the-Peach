@@ -85,4 +85,6 @@ https://blog.csdn.net/huanhuanq1209/article/details/72673236
 20180808
 一個簡扼的demo方式
 https://github.com/murksermatt/python-dlms
+DLMS/COSEM green book
+http://dlms.com/documents/Green_Book_Ed_8-3_Excerpt.pdf
 ```
