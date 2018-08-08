@@ -92,8 +92,11 @@ http://dlms.com/documents/Green_Book_Ed_8-3_Excerpt.pdf
 jDLMS databook
 https://www.openmuc.org/dlms-cosem/files/jdlms-doc.pdf
 
+jDLMS 詳細資訊
+https://www.openmuc.org/dlms-cosem/
 之後要確認之事情如下
 1.電腦與電錶的連接方式採用tcp/ip 還是serial port？ 
 2.測試時client ＆ server是否我們這邊要建置？
+
 
 ```
